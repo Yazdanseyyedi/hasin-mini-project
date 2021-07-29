@@ -1,0 +1,14 @@
+.main-aboutus{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.description{
+    background-color: rgb(85, 20, 146);
+    display: inline-block;
+    box-sizing: border-box;
+    color: aliceblue;
+    width: 200px;
+    height: 100px;
+    border-radius: 10px;
+}
